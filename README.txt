@@ -1,5 +1,3 @@
-1) Extract the whole zip
+This is a simple project made in scratch
 
-2) Open "simple sketch pad.exe" to start the app.
-
-Open "licenses.html" for information regarding open source software used by the app.
+to start click H to see all the keybinds
